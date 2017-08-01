@@ -3,5 +3,8 @@
     "key1": "value1",
     "key2": "value2"
   },
-"destination":{}
+"destination":{
+    "key1": "value1",
+    "key2": "value2"
+  }
 }
