@@ -7,3 +7,5 @@ function translator() {
 }
 
 translator();
+
+// This is a comment
