@@ -9,3 +9,4 @@ function translator() {
 translator();
 
 // This is a comment
+// Now modified to addd more code
